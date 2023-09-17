@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![peytonyip GitHub Stats](https://github-readme-stats.vercel.app/api?username=fxxjdedd&show_icons=true&count_private=true)](https://github.com/peytonyip)
+
 <!--
 **peytonyip/peytonyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
